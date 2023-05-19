@@ -3,7 +3,8 @@
 Soy desarrollador Freelance en Wordpress y estudiando avanzado de Desarrollo de Software.
 
 En 2022 dejé la carrera universitaria en la que me encontraba estudiando (Actuario) y decidí comenzar a estudiar lo que tanto me apasionaba de chico, pero que nunca tuve el valor o el conocimiento necesario para dar ese primer paso y adentrarme en este mundo tan amplio e interesante. Mi sueño es poder <b>CREAR</b> a través de herramientas digitales y profesionalizarme en este rubro.
-Desde entonces me he dedicado a potenciar mis habiliidades blandas y comenzar a formar mi stack tecnológico que el día de mañana me ayude a potenciar mi carrera profesional.
+Desde entonces me he dedicado a potenciar mis habiliidades blandas y comenzar a formar mi stack tecnológico que el día de mañana me ayude a potenciar mi carrera profesional. </br>
+
 Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en paralelo en distintas universidades y agrupaciones, desde testing hasta lenguajes de programación.
 
 ## Stack tecnológico:
