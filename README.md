@@ -19,7 +19,8 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 
 > [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 > [![Python](https://img.shields.io/badge/python-FF8000?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
-> [![Node_JS](https://img.shields.io/badge/Node_js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)]() 
+> [![Node_JS](https://img.shields.io/badge/Node_js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)]()
+> [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)]()
 
 👥**UX/UI**
 
@@ -29,8 +30,7 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 
 > En proceso: </br>
 > 
-[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]() [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)]()
-
+[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]() 
 
 ## Contacto:
 
