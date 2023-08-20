@@ -14,6 +14,8 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 > [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)]()
 > [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)]()
 > [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]()
+> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
+> ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=black)
 
 📊**BACKEND**
 
@@ -25,12 +27,13 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 👥**UX/UI**
 
 > [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)]()
+> ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=black)
 
 *Y alguna más...*
 
 > En proceso: </br>
 > 
-[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]()  
+[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]() [![Next JS](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)]() [![Kotlin](https://img.shields.io/badge/kotlin-c711e0?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)]() ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
 
 ## Contacto:
 
