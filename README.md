@@ -31,7 +31,7 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 
 *Y alguna más...*
 
-> En proceso: </br>
+> En proceso este 2023: </br>
 > 
 [![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]() [![Next JS](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)]() [![Kotlin](https://img.shields.io/badge/kotlin-c711e0?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)]() ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
 
