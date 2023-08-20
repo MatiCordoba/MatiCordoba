@@ -13,7 +13,7 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 > [![HTML5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)]()
 > [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)]()
 > [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)]()
-
+> [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]()
 
 📊**BACKEND**
 
@@ -30,7 +30,7 @@ Actualmente me encuentro estudiando Desarrollo de Software y haciendo cursos en 
 
 > En proceso: </br>
 > 
-[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]() 
+[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)]() [![NPM](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)]()  
 
 ## Contacto:
 
